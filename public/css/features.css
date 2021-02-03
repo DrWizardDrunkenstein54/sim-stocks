@@ -1,0 +1,79 @@
+@media screen and (min-width: 1920px) {
+  .guy_1 {
+    height: 500px;
+    width: 500px;
+    position: relative;
+    left: 1100px;
+    margin-bottom: 250px;
+    border-radius: 50% 50% 50% 50%;
+  }
+
+  .slideshow {
+    padding-top: 75px;
+    height: 750px;
+  }
+
+  .lines {
+    padding-top: 300px;
+  }
+
+  .feature-text {
+    font-family: 'Montserrat', sans-serif;
+    color: #fff;
+    font-size: 3rem;
+    text-align: center;
+    position: absolute;
+    left: 325px;
+    top: 250px;
+  }
+
+  .journey {
+    font-family: 'Montserrat', sans-serif;
+    color: #fff;
+    font-size: 4rem;
+    text-align: center;
+    position: absolute;
+    left: 450px;
+    top: 200px;
+  }
+}
+
+@media screen and (max-width: 1919px) {
+  .guy_1 {
+    height: 350px;
+    width: 350px;
+    position: relative;
+    left: 220px;
+    margin-bottom: 100px;
+    border-radius: 50% 50% 50% 50%;
+  }
+
+  .slideshow {
+    padding-top: 75px;
+    height: 500px;
+  }
+
+  .lines {
+    padding-top: 300px;
+  }
+
+  .feature-text {
+    font-family: 'Montserrat', sans-serif;
+    color: #fff;
+    font-size: 2.5rem;
+    text-align: center;
+    position: absolute;
+    left: 630px;
+    top: 100px;
+  }
+
+  .journey {
+    font-family: 'Montserrat', sans-serif;
+    color: #fff;
+    font-size: 3.5rem;
+    text-align: center;
+    position: absolute;
+    left: 720px;
+    top: 50px;
+  }
+}

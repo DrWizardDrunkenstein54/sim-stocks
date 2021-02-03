@@ -1,0 +1,39 @@
+@media screen and (min-width: 1920px) {
+  .demo {
+    position: absolute;
+    left: 32.5%;
+    padding-top: 50px;
+    height: 800px;
+    width: 700px;
+  }
+  .try {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 4rem;
+    color: #fff;
+    position: relative;
+    top: 850px;
+    left: 40%;
+    margin-bottom: 30px;
+    padding-bottom: 150px;
+  }
+}
+
+@media screen and (max-width: 1919px) {
+  .demo {
+    position: absolute;
+    left: 35.5%;
+    padding-top: 50px;
+    height: 500px;
+    width: 400px;
+  }
+  .try {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 4rem;
+    color: #fff;
+    position: relative;
+    top: 550px;
+    left: 35%;
+    margin-bottom: 30px;
+    padding-bottom: 150px;
+  }
+}

@@ -1,0 +1,121 @@
+@media screen and (min-width: 1920px) {
+  .username {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 3.5rem;
+    color: white;
+    position: absolute;
+    right: 1075px;
+    padding-top: 375px;
+  }
+
+  .password {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 3.5rem;
+    color: white;
+    position: absolute;
+    right: 1090px;
+    padding-top: 500px;
+  }
+
+  .username-input {
+    position: absolute;
+    right: 550px;
+    margin-top: 380px;
+    font-size: 2.5rem;
+    border-radius: 10px;
+    border: 2.5px solid #ff9900;
+    font-family: 'Andika New Basic', sans-serif;
+  }
+
+  .password-input {
+    position: absolute;
+    right: 550px;
+    margin-top: 500px;
+    font-size: 2.5rem;
+    border-radius: 10px;
+    border: 2.5px solid #ff9900;
+    font-family: 'Andika New Basic', sans-serif;
+  }
+
+  .sign-up {
+    color: white;
+    font-size: 1.5rem;
+    position: absolute;
+    right: 750px;
+    margin-top: 590px;
+    font-family: 'Montserrat', sans-serif;
+  }
+
+  .login-button {
+    background-color: #ff6666;
+    color: white;
+    border: 2px solid white;
+    font-size: 4rem;
+    border-radius: 10px;
+    font-family: 'Montserrat', sans-serif;
+    position: absolute;
+    right: 845px;
+    margin-top: 700px;
+  }
+}
+
+@media screen and (max-width: 1919px) {
+  .username {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 2.5rem;
+    color: white;
+    position: absolute;
+    right: 800px;
+    padding-top: 185px;
+  }
+
+  .password {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 2.5rem;
+    color: white;
+    position: absolute;
+    right: 820px;
+    padding-top: 300px;
+  }
+
+  .username-input {
+    position: absolute;
+    left: 600px;
+    margin-top: 185px;
+    font-size: 2.5rem;
+    border-radius: 10px;
+    border: 2.5px solid #ff9900;
+    font-family: 'Andika New Basic', sans-serif;
+  }
+
+  .password-input {
+    position: absolute;
+    left: 580px;
+    margin-top: 300px;
+    font-size: 2.5rem;
+    border-radius: 10px;
+    border: 2.5px solid #ff9900;
+    font-family: 'Andika New Basic', sans-serif;
+  }
+
+  .sign-up {
+    color: white;
+    font-size: 1.5rem;
+    position: absolute;
+    left: 500px;
+    margin-top: 390px;
+    font-family: 'Montserrat', sans-serif;
+  }
+
+  .login-button {
+    background-color: #ff6666;
+    color: white;
+    border: 2px solid white;
+    font-size: 4rem;
+    border-radius: 10px;
+    font-family: 'Montserrat', sans-serif;
+    position: absolute;
+    left: 580px;
+    margin-top: 460px;
+  }
+}

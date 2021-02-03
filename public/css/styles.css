@@ -1,0 +1,107 @@
+@media screen and (min-width: 1920px) {
+  #intro {
+    background-color: #ff6666;
+  }
+
+  .header {
+    height: 1000px;
+    padding-top: 270px;
+    padding-left: 100px;
+    text-align: center;
+  }
+
+  .text {
+    position: absolute;
+    left: 200px;
+  }
+  .get-started {
+    color: white;
+    font-family: 'Montserrat', sans-serif;
+  }
+
+  .intro-text {
+    font-size: 4rem;
+    text-align: center;
+    padding-top: 100px;
+  }
+
+  .iphone {
+    position: absolute;
+    right: 250px;
+    top: 250px;
+  }
+
+  .cash-sign {
+    position: absolute;
+    right: 525px;
+    top: 425px
+  }
+
+  .demo-button {
+    font-family: 'Montserrat', sans-serif;
+    color: rgb(0, 204, 0);
+    font-size: 2.5rem;
+    border: 2px solid #fff;
+    background-color: black;
+    border-radius: 16px;
+    position: absolute;
+    right: 510px;
+    bottom: 400px;
+    outline: 0;
+    text-decoration: none;
+  }
+}
+
+@media screen and (max-width: 1919px) {
+  #intro {
+    background-color: #ff6666;
+  }
+
+  .header {
+    height: 600px;
+    padding-top: 210px;
+    text-align: center;
+  }
+
+  .text {
+    position: absolute;
+    left: 100px;
+  }
+
+  .get-started {
+    color: white;
+    font-family: 'Montserrat', sans-serif;
+  }
+
+  .intro-text {
+    font-size: 4rem;
+    text-align: center;
+    padding-top: 100px;
+  }
+
+  .iphone {
+    position: absolute;
+    left: 700px;
+    top: 100px;
+  }
+
+  .cash-sign {
+    position: absolute;
+    left: 975px;
+    top: 360px;
+  }
+
+  .demo-button {
+    font-family: 'Montserrat', sans-serif;
+    color: rgb(0, 204, 0);
+    font-size: 2.5rem;
+    border: 2px solid #fff;
+    background-color: black;
+    border-radius: 16px;
+    position: absolute;
+    left: 960px;
+    top: 275px;
+    outline: 0;
+    text-decoration: none;
+  }
+}
